@@ -1,3 +1,7 @@
+# This is a program to tweet out good morning every morning through
+# a cronjob I set up. The laptop has to be running and not in sleep
+# mode for it to do it every morning at 8:00 am eastern, otherwise
+# I have to do it manually.
 import tweepy
 
 CONSUMER_KEY = "k16Mu64PQbDP7scV77x7gAj91"
